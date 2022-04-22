@@ -2,13 +2,12 @@
 
 # Hello Microverse Project
 
-> This is my first official project
+> First Project with Microverse.. "Hello microverse" repository. simple coding involving Lintrs configuration.
 
 
 ## Built With
 
 - HTML and CSS
-- Frameworks
 - Git and Github
 
 ## Authors
